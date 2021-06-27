@@ -6,19 +6,6 @@
   width: 100%;
   padding: 10px 0;
   background-color: white;
-  margin-bottom: 10px;
-  border-bottom: 0.1px solid lightgrey;
-  z-index: 999;
-}
-.header {
-  position: sticky;
-  top: 0;
-  display: flex;
-  justify-content: space-evenly;
-  width: 100%;
-  padding: 10px 0;
-  background-color: white;
-  margin-bottom: 10px;
   border-bottom: 0.1px solid lightgrey;
   z-index: 999;
 }
